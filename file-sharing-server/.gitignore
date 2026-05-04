@@ -1,0 +1,11 @@
+/dist
+/node_modules
+/build
+
+# OS
+.DS_Store
+
+# Environment variables
+.env
+.env.production.local
+.env.local
