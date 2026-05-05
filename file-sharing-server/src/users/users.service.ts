@@ -1,4 +1,8 @@
-import { BadRequestException, Injectable } from '@nestjs/common';
+import {
+  BadRequestException,
+  Injectable,
+  InternalServerErrorException,
+} from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
 import { Repository } from 'typeorm';
 import * as bcrypt from 'bcrypt';
@@ -11,32 +15,67 @@ import {
 } from '../constants/app.constants';
 import { DatabaseErrorService } from '../database/services/database-error.service';
 import { RegisterDto } from '../auth/dto/register.dto';
+import { AppLoggerService } from '../logger/logger.service';
 
 @Injectable()
 export class UsersService {
+  private readonly context = UsersService.name;
+
   constructor(
     @InjectRepository(User)
     private readonly usersRepository: Repository<User>,
     private readonly databaseErrorService: DatabaseErrorService,
+    private readonly logger: AppLoggerService,
   ) {}
 
   async findByEmail(email: string): Promise<User | null> {
-    return this.usersRepository.findOne({
-      where: { email: email.toLowerCase() },
-    });
+    this.logger.debug(`findByEmail: ${email}`, this.context);
+    try {
+      return await this.usersRepository.findOne({
+        where: { email: email.toLowerCase() },
+      });
+    } catch (error) {
+      this.logger.error(
+        `DB error in findByEmail: ${email}`,
+        error instanceof Error ? error.stack : String(error),
+        this.context,
+      );
+      throw new InternalServerErrorException('Database query failed');
+    }
   }
 
   async findByUsername(username: string): Promise<User | null> {
-    return this.usersRepository.findOne({ where: { username } });
+    this.logger.debug(`findByUsername: ${username}`, this.context);
+    try {
+      return await this.usersRepository.findOne({ where: { username } });
+    } catch (error) {
+      this.logger.error(
+        `DB error in findByUsername: ${username}`,
+        error instanceof Error ? error.stack : String(error),
+        this.context,
+      );
+      throw new InternalServerErrorException('Database query failed');
+    }
   }
 
   async findById(id: string): Promise<User | null> {
-    return this.usersRepository.findOne({ where: { id } });
+    this.logger.debug(`findById: ${id}`, this.context);
+    try {
+      return await this.usersRepository.findOne({ where: { id } });
+    } catch (error) {
+      this.logger.error(
+        `DB error in findById: ${id}`,
+        error instanceof Error ? error.stack : String(error),
+        this.context,
+      );
+      throw new InternalServerErrorException('Database query failed');
+    }
   }
 
   async createUser(
     createUserDto: RegisterDto,
   ): Promise<Omit<User, 'password'>> {
+    this.logger.log(`Creating user: ${createUserDto.email}`, this.context);
     const username = createUserDto.username.trim();
     const email = createUserDto.email.trim().toLowerCase();
     const password = createUserDto.password;
@@ -50,6 +89,7 @@ export class UsersService {
 
     const existingEmail = await this.findByEmail(email);
     if (existingEmail) {
+      this.logger.warn(`Email already exists: ${email}`, this.context);
       throw new BadRequestException({
         statusCode: APP_STATUS_CODES.BAD_REQUEST,
         message: USER_MESSAGES.EMAIL_EXISTS,
@@ -58,6 +98,7 @@ export class UsersService {
 
     const existingUsername = await this.findByUsername(username);
     if (existingUsername) {
+      this.logger.warn(`Username already taken: ${username}`, this.context);
       throw new BadRequestException({
         statusCode: APP_STATUS_CODES.BAD_REQUEST,
         message: USER_MESSAGES.USERNAME_EXISTS,
@@ -77,6 +118,7 @@ export class UsersService {
 
     try {
       const savedUser = await this.usersRepository.save(user);
+      this.logger.log(`User created: ${savedUser.id}`, this.context);
       return this.toSafeUser(savedUser);
     } catch (error) {
       const meta = this.databaseErrorService.getMetadata(error);
@@ -84,6 +126,7 @@ export class UsersService {
         meta.isQueryFailed &&
         meta.code === POSTGRES_ERROR_CODES.UNIQUE_VIOLATION
       ) {
+        this.logger.warn(`Duplicate user constraint: ${email}`, this.context);
         throw new BadRequestException({
           statusCode: APP_STATUS_CODES.BAD_REQUEST,
           message: USER_MESSAGES.DUPLICATE_USER,

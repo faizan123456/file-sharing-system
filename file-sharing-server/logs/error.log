@@ -1,0 +1,104 @@
+2026-05-05 02:25:45 error [ExceptionsHandler]: Cannot read properties of undefined (reading 'originalname')
+TypeError: Cannot read properties of undefined (reading 'originalname')
+    at FilesService.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\files.service.ts:36:46)
+    at FilesController.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\files.controller.ts:42:42)
+    at F:\Projects\file-sharing-system\file-sharing-server\node_modules\@nestjs\core\router\router-execution-context.js:38:29
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2026-05-05 02:46:49 error [S3Service]: S3 upload failed for key: uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/4016025883575a908ebffc0ed4eb8922.jpg
+AccessDenied: User: arn:aws:iam::381491938199:user/file-service-uploader is not authorized to perform: s3:PutObject on resource: "arn:aws:s3:::test-sharing-files/uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/4016025883575a908ebffc0ed4eb8922.jpg" because no permissions boundary allows the s3:PutObject action
+    at S3RestXmlProtocol.handleError (F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\core\dist-cjs\submodules\protocols\index.js:1850:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async S3RestXmlProtocol.deserializeResponse (F:\Projects\file-sharing-system\file-sharing-server\node_modules\@smithy\core\dist-cjs\submodules\protocols\index.js:343:13)
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@smithy\core\dist-cjs\submodules\schema\index.js:27:24
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-sdk-s3\dist-cjs\index.js:387:20
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@smithy\middleware-retry\dist-cjs\index.js:300:46
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-flexible-checksums\dist-cjs\index.js:243:24
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-sdk-s3\dist-cjs\index.js:64:28
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-sdk-s3\dist-cjs\index.js:91:20
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-logger\dist-cjs\index.js:5:26
+    at S3Service.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\services\s3.service.ts:44:7)
+    at FilesService.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\files.service.ts:48:17)
+    at FilesController.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\files.controller.ts:56:18)
+2026-05-05 02:53:55 error [S3Service]: S3 upload failed for key: uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/cf22ba21b2e41c82a6a254059d71f27b.jpg
+AccessDenied: User: arn:aws:iam::381491938199:user/file-service-uploader is not authorized to perform: s3:PutObject on resource: "arn:aws:s3:::test-sharing-files/uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/cf22ba21b2e41c82a6a254059d71f27b.jpg" because no permissions boundary allows the s3:PutObject action
+    at S3RestXmlProtocol.handleError (F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\core\dist-cjs\submodules\protocols\index.js:1850:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async S3RestXmlProtocol.deserializeResponse (F:\Projects\file-sharing-system\file-sharing-server\node_modules\@smithy\core\dist-cjs\submodules\protocols\index.js:343:13)
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@smithy\core\dist-cjs\submodules\schema\index.js:27:24
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-sdk-s3\dist-cjs\index.js:387:20
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@smithy\middleware-retry\dist-cjs\index.js:300:46
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-flexible-checksums\dist-cjs\index.js:243:24
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-sdk-s3\dist-cjs\index.js:64:28
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-sdk-s3\dist-cjs\index.js:91:20
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-logger\dist-cjs\index.js:5:26
+    at S3Service.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\services\s3.service.ts:44:7)
+    at FilesService.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\files.service.ts:48:17)
+    at FilesController.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\files.controller.ts:56:18)
+2026-05-05 02:56:42 error [S3Service]: S3 upload failed for key: uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/ecb9a5f5892eb61fcfcb78c60923b912.jpg
+AccessDenied: User: arn:aws:iam::381491938199:user/file-service-uploader is not authorized to perform: s3:PutObject on resource: "arn:aws:s3:::test-sharing-files/uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/ecb9a5f5892eb61fcfcb78c60923b912.jpg" because no identity-based policy allows the s3:PutObject action
+    at S3RestXmlProtocol.handleError (F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\core\dist-cjs\submodules\protocols\index.js:1850:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async S3RestXmlProtocol.deserializeResponse (F:\Projects\file-sharing-system\file-sharing-server\node_modules\@smithy\core\dist-cjs\submodules\protocols\index.js:343:13)
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@smithy\core\dist-cjs\submodules\schema\index.js:27:24
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-sdk-s3\dist-cjs\index.js:387:20
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@smithy\middleware-retry\dist-cjs\index.js:300:46
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-flexible-checksums\dist-cjs\index.js:243:24
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-sdk-s3\dist-cjs\index.js:64:28
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-sdk-s3\dist-cjs\index.js:91:20
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-logger\dist-cjs\index.js:5:26
+    at S3Service.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\services\s3.service.ts:44:7)
+    at FilesService.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\files.service.ts:48:17)
+    at FilesController.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\files.controller.ts:56:18)
+2026-05-05 03:00:16 error [S3Service]: S3 upload failed for key: uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/55a05badff3e60295d9ab3df0233bc6e.jpg
+AccessDenied: User: arn:aws:iam::381491938199:user/file-service-uploader is not authorized to perform: s3:PutObject on resource: "arn:aws:s3:::test-sharing-files/uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/55a05badff3e60295d9ab3df0233bc6e.jpg" because no identity-based policy allows the s3:PutObject action
+    at S3RestXmlProtocol.handleError (F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\core\dist-cjs\submodules\protocols\index.js:1850:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async S3RestXmlProtocol.deserializeResponse (F:\Projects\file-sharing-system\file-sharing-server\node_modules\@smithy\core\dist-cjs\submodules\protocols\index.js:343:13)
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@smithy\core\dist-cjs\submodules\schema\index.js:27:24
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-sdk-s3\dist-cjs\index.js:387:20
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@smithy\middleware-retry\dist-cjs\index.js:300:46
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-flexible-checksums\dist-cjs\index.js:243:24
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-sdk-s3\dist-cjs\index.js:64:28
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-sdk-s3\dist-cjs\index.js:91:20
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-logger\dist-cjs\index.js:5:26
+    at S3Service.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\services\s3.service.ts:64:7)
+    at FilesService.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\files.service.ts:48:17)
+    at FilesController.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\files.controller.ts:56:18)
+2026-05-05 03:07:24 error [S3Service]: S3 upload failed for key: uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/caf7f8d0cf28168dd60ac3d0fa70489e.jpg
+AccessDenied: User: arn:aws:iam::381491938199:user/file-service-uploader is not authorized to perform: s3:PutObject on resource: "arn:aws:s3:::test-sharing-files/uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/caf7f8d0cf28168dd60ac3d0fa70489e.jpg" because no identity-based policy allows the s3:PutObject action
+    at S3RestXmlProtocol.handleError (F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\core\dist-cjs\submodules\protocols\index.js:1850:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async S3RestXmlProtocol.deserializeResponse (F:\Projects\file-sharing-system\file-sharing-server\node_modules\@smithy\core\dist-cjs\submodules\protocols\index.js:343:13)
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@smithy\core\dist-cjs\submodules\schema\index.js:27:24
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-sdk-s3\dist-cjs\index.js:387:20
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@smithy\middleware-retry\dist-cjs\index.js:300:46
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-flexible-checksums\dist-cjs\index.js:243:24
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-sdk-s3\dist-cjs\index.js:64:28
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-sdk-s3\dist-cjs\index.js:91:20
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-logger\dist-cjs\index.js:5:26
+    at S3Service.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\services\s3.service.ts:64:7)
+    at FilesService.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\files.service.ts:48:17)
+    at FilesController.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\files.controller.ts:56:18)
+2026-05-05 03:13:42 error [S3Service]: S3 upload failed for key: uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/96e884374d4518f2db6fdda3666a6aa1.jpg
+AccessDenied: User: arn:aws:iam::381491938199:user/file-service-uploader is not authorized to perform: s3:PutObject on resource: "arn:aws:s3:::test-sharing-files/uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/96e884374d4518f2db6fdda3666a6aa1.jpg" because no identity-based policy allows the s3:PutObject action
+    at S3RestXmlProtocol.handleError (F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\core\dist-cjs\submodules\protocols\index.js:1850:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async S3RestXmlProtocol.deserializeResponse (F:\Projects\file-sharing-system\file-sharing-server\node_modules\@smithy\core\dist-cjs\submodules\protocols\index.js:343:13)
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@smithy\core\dist-cjs\submodules\schema\index.js:27:24
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-sdk-s3\dist-cjs\index.js:387:20
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@smithy\middleware-retry\dist-cjs\index.js:300:46
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-flexible-checksums\dist-cjs\index.js:243:24
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-sdk-s3\dist-cjs\index.js:64:28
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-sdk-s3\dist-cjs\index.js:91:20
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-logger\dist-cjs\index.js:5:26
+    at S3Service.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\services\s3.service.ts:64:7)
+    at FilesService.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\files.service.ts:48:17)
+    at FilesController.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\files.controller.ts:56:18)
+2026-05-05 03:22:08 error [ExceptionsHandler]: No metadata for "File" was found.
+EntityMetadataNotFoundError: No metadata for "File" was found.
+    at DataSource.getMetadata (F:\Projects\file-sharing-system\file-sharing-server\node_modules\typeorm\data-source\src\data-source\DataSource.ts:451:30)
+    at Repository.get metadata (F:\Projects\file-sharing-system\file-sharing-server\node_modules\typeorm\repository\src\repository\Repository.ts:54:40)
+    at Repository.create (F:\Projects\file-sharing-system\file-sharing-server\node_modules\typeorm\repository\src\repository\Repository.ts:131:18)
+    at FilesService.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\files.service.ts:56:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at FilesController.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\files.controller.ts:56:18)

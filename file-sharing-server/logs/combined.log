@@ -1,0 +1,1092 @@
+2026-05-05 00:49:09 info [RoutesResolver]: AppController {/}:
+2026-05-05 00:49:09 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 00:49:09 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 00:49:09 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 00:49:09 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 00:49:09 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 00:49:09 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 00:49:09 info [RoutesResolver]: FilesController {/}:
+2026-05-05 00:49:09 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 00:49:09 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 00:49:09 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 00:49:09 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 00:49:09 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 00:49:09 info [NestApplication]: Nest application successfully started
+2026-05-05 00:49:09 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 01:02:47 info [RoutesResolver]: AppController {/}:
+2026-05-05 01:02:47 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 01:02:47 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 01:02:47 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 01:02:47 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 01:02:47 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 01:02:47 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 01:02:47 info [RoutesResolver]: FilesController {/}:
+2026-05-05 01:02:47 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 01:02:47 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 01:02:47 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 01:02:47 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 01:02:47 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 01:02:47 info [NestApplication]: Nest application successfully started
+2026-05-05 01:02:47 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 01:09:59 info [RoutesResolver]: AppController {/}:
+2026-05-05 01:09:59 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 01:09:59 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 01:09:59 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 01:09:59 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 01:09:59 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 01:09:59 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 01:09:59 info [RoutesResolver]: FilesController {/}:
+2026-05-05 01:09:59 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 01:09:59 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 01:09:59 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 01:09:59 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 01:09:59 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 01:09:59 info [NestApplication]: Nest application successfully started
+2026-05-05 01:09:59 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 01:16:19 info [RoutesResolver]: AppController {/}:
+2026-05-05 01:16:19 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 01:16:19 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 01:16:19 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 01:16:19 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 01:16:19 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 01:16:19 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 01:16:19 info [RoutesResolver]: FilesController {/}:
+2026-05-05 01:16:19 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 01:16:19 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 01:16:19 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 01:16:19 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 01:16:19 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 01:16:19 info [NestApplication]: Nest application successfully started
+2026-05-05 01:16:19 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 01:29:46 info [RoutesResolver]: AppController {/}:
+2026-05-05 01:29:46 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 01:29:46 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 01:29:46 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 01:29:46 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 01:29:46 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 01:29:46 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 01:29:46 info [RoutesResolver]: FilesController {/}:
+2026-05-05 01:29:46 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 01:29:46 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 01:29:46 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 01:29:46 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 01:29:46 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 01:29:46 info [NestApplication]: Nest application successfully started
+2026-05-05 01:29:46 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 01:30:05 info [RoutesResolver]: AppController {/}:
+2026-05-05 01:30:05 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 01:30:05 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 01:30:05 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 01:30:05 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 01:30:05 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 01:30:05 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 01:30:05 info [RoutesResolver]: FilesController {/}:
+2026-05-05 01:30:05 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 01:30:05 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 01:30:05 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 01:30:05 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 01:30:05 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 01:30:05 info [NestApplication]: Nest application successfully started
+2026-05-05 01:30:05 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 01:30:11 info [RoutesResolver]: AppController {/}:
+2026-05-05 01:30:11 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 01:30:11 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 01:30:11 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 01:30:11 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 01:30:11 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 01:30:11 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 01:30:11 info [RoutesResolver]: FilesController {/}:
+2026-05-05 01:30:11 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 01:30:11 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 01:30:11 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 01:30:11 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 01:30:11 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 01:30:11 info [NestApplication]: Nest application successfully started
+2026-05-05 01:30:11 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 01:30:18 info [RoutesResolver]: AppController {/}:
+2026-05-05 01:30:18 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 01:30:18 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 01:30:18 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 01:30:18 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 01:30:18 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 01:30:18 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 01:30:18 info [RoutesResolver]: FilesController {/}:
+2026-05-05 01:30:18 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 01:30:18 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 01:30:18 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 01:30:18 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 01:30:18 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 01:30:18 info [NestApplication]: Nest application successfully started
+2026-05-05 01:30:18 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 01:37:50 info [RoutesResolver]: AppController {/}:
+2026-05-05 01:37:50 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 01:37:50 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 01:37:50 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 01:37:50 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 01:37:50 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 01:37:50 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 01:37:50 info [RoutesResolver]: FilesController {/}:
+2026-05-05 01:37:50 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 01:37:50 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 01:37:50 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 01:37:50 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 01:37:50 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 01:37:50 info [NestApplication]: Nest application successfully started
+2026-05-05 01:37:50 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 01:37:52 info [RoutesResolver]: AppController {/}:
+2026-05-05 01:37:52 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 01:37:52 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 01:37:52 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 01:37:52 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 01:37:52 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 01:37:52 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 01:37:52 info [RoutesResolver]: FilesController {/}:
+2026-05-05 01:37:52 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 01:37:52 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 01:37:52 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 01:37:52 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 01:37:52 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 01:37:52 info [NestApplication]: Nest application successfully started
+2026-05-05 01:37:52 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 01:42:48 info [RoutesResolver]: AppController {/}:
+2026-05-05 01:42:48 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 01:42:48 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 01:42:48 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 01:42:48 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 01:42:48 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 01:42:48 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 01:42:48 info [RoutesResolver]: FilesController {/}:
+2026-05-05 01:42:48 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 01:42:48 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 01:42:48 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 01:42:48 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 01:42:48 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 01:42:48 info [NestApplication]: Nest application successfully started
+2026-05-05 01:42:48 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 01:48:55 info [RoutesResolver]: AppController {/}:
+2026-05-05 01:48:55 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 01:48:55 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 01:48:55 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 01:48:55 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 01:48:55 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 01:48:55 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 01:48:55 info [RoutesResolver]: FilesController {/}:
+2026-05-05 01:48:55 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 01:48:55 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 01:48:55 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 01:48:55 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 01:48:55 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 01:48:55 info [NestApplication]: Nest application successfully started
+2026-05-05 01:48:55 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 01:53:22 info [RoutesResolver]: AppController {/}:
+2026-05-05 01:53:22 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 01:53:22 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 01:53:22 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 01:53:22 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 01:53:22 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 01:53:22 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 01:53:22 info [RoutesResolver]: FilesController {/}:
+2026-05-05 01:53:22 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 01:53:22 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 01:53:22 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 01:53:22 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 01:53:22 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 01:53:22 info [NestApplication]: Nest application successfully started
+2026-05-05 01:53:22 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 01:53:48 info [RoutesResolver]: AppController {/}:
+2026-05-05 01:53:48 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 01:53:48 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 01:53:48 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 01:53:48 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 01:53:48 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 01:53:48 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 01:53:48 info [RoutesResolver]: FilesController {/}:
+2026-05-05 01:53:48 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 01:53:48 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 01:53:48 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 01:53:48 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 01:53:48 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 01:53:48 info [NestApplication]: Nest application successfully started
+2026-05-05 01:53:48 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 01:54:00 info [RoutesResolver]: AppController {/}:
+2026-05-05 01:54:00 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 01:54:00 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 01:54:00 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 01:54:00 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 01:54:00 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 01:54:00 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 01:54:00 info [RoutesResolver]: FilesController {/}:
+2026-05-05 01:54:00 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 01:54:00 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 01:54:00 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 01:54:00 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 01:54:00 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 01:54:00 info [NestApplication]: Nest application successfully started
+2026-05-05 01:54:00 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 01:55:17 info [RoutesResolver]: AppController {/}:
+2026-05-05 01:55:17 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 01:55:17 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 01:55:17 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 01:55:17 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 01:55:17 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 01:55:17 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 01:55:17 info [RoutesResolver]: FilesController {/}:
+2026-05-05 01:55:17 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 01:55:17 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 01:55:17 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 01:55:17 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 01:55:17 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 01:55:17 info [NestApplication]: Nest application successfully started
+2026-05-05 01:55:17 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 01:57:36 info [RoutesResolver]: AppController {/}:
+2026-05-05 01:57:36 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 01:57:36 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 01:57:36 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 01:57:36 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 01:57:36 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 01:57:36 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 01:57:36 info [RoutesResolver]: FilesController {/}:
+2026-05-05 01:57:36 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 01:57:36 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 01:57:36 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 01:57:36 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 01:57:36 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 01:57:36 info [NestApplication]: Nest application successfully started
+2026-05-05 01:57:36 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 01:58:05 info [RoutesResolver]: AppController {/}:
+2026-05-05 01:58:05 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 01:58:05 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 01:58:05 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 01:58:05 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 01:58:05 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 01:58:05 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 01:58:05 info [RoutesResolver]: FilesController {/}:
+2026-05-05 01:58:05 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 01:58:05 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 01:58:05 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 01:58:05 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 01:58:05 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 01:58:05 info [NestApplication]: Nest application successfully started
+2026-05-05 01:58:05 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 01:58:19 info [RoutesResolver]: AppController {/}:
+2026-05-05 01:58:19 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 01:58:19 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 01:58:19 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 01:58:19 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 01:58:19 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 01:58:19 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 01:58:19 info [RoutesResolver]: FilesController {/}:
+2026-05-05 01:58:19 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 01:58:19 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 01:58:19 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 01:58:19 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 01:58:19 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 01:58:19 info [NestApplication]: Nest application successfully started
+2026-05-05 01:58:19 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 01:58:32 info [RoutesResolver]: AppController {/}:
+2026-05-05 01:58:32 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 01:58:32 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 01:58:32 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 01:58:32 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 01:58:32 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 01:58:32 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 01:58:32 info [RoutesResolver]: FilesController {/}:
+2026-05-05 01:58:32 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 01:58:32 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 01:58:32 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 01:58:32 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 01:58:32 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 01:58:32 info [NestApplication]: Nest application successfully started
+2026-05-05 01:58:32 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 01:58:51 info [RoutesResolver]: AppController {/}:
+2026-05-05 01:58:51 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 01:58:51 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 01:58:51 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 01:58:51 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 01:58:51 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 01:58:51 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 01:58:51 info [RoutesResolver]: FilesController {/}:
+2026-05-05 01:58:51 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 01:58:51 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 01:58:51 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 01:58:51 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 01:58:51 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 01:58:51 info [NestApplication]: Nest application successfully started
+2026-05-05 01:58:51 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 02:19:46 info [RoutesResolver]: AppController {/}:
+2026-05-05 02:19:46 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 02:19:46 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 02:19:46 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 02:19:46 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 02:19:46 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 02:19:46 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 02:19:46 info [RoutesResolver]: FilesController {/}:
+2026-05-05 02:19:46 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 02:19:46 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 02:19:46 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 02:19:46 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 02:19:46 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 02:19:46 info [NestApplication]: Nest application successfully started
+2026-05-05 02:19:46 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 02:21:30 info [AuthService]: Login attempt: user@example.com
+2026-05-05 02:21:30 info [AuthService]: Login successful: 611cf39e-3691-4f5b-9b6d-45c93eb84fce
+2026-05-05 02:25:45 error [ExceptionsHandler]: Cannot read properties of undefined (reading 'originalname')
+TypeError: Cannot read properties of undefined (reading 'originalname')
+    at FilesService.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\files.service.ts:36:46)
+    at FilesController.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\files.controller.ts:42:42)
+    at F:\Projects\file-sharing-system\file-sharing-server\node_modules\@nestjs\core\router\router-execution-context.js:38:29
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2026-05-05 02:27:33 info [RoutesResolver]: AppController {/}:
+2026-05-05 02:27:33 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 02:27:33 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 02:27:33 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 02:27:33 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 02:27:33 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 02:27:33 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 02:27:33 info [RoutesResolver]: FilesController {/}:
+2026-05-05 02:27:33 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 02:27:33 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 02:27:33 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 02:27:33 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 02:27:33 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 02:27:33 info [NestApplication]: Nest application successfully started
+2026-05-05 02:27:33 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 02:29:25 info [RoutesResolver]: AppController {/}:
+2026-05-05 02:29:25 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 02:29:25 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 02:29:25 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 02:29:25 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 02:29:25 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 02:29:25 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 02:29:25 info [RoutesResolver]: FilesController {/}:
+2026-05-05 02:29:25 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 02:29:25 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 02:29:25 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 02:29:25 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 02:29:25 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 02:29:25 info [NestApplication]: Nest application successfully started
+2026-05-05 02:29:25 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 02:29:36 info [RoutesResolver]: AppController {/}:
+2026-05-05 02:29:36 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 02:29:36 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 02:29:36 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 02:29:36 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 02:29:36 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 02:29:36 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 02:29:36 info [RoutesResolver]: FilesController {/}:
+2026-05-05 02:29:36 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 02:29:36 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 02:29:36 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 02:29:36 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 02:29:36 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 02:29:36 info [NestApplication]: Nest application successfully started
+2026-05-05 02:29:36 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 02:32:05 info [RoutesResolver]: AppController {/}:
+2026-05-05 02:32:05 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 02:32:05 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 02:32:05 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 02:32:05 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 02:32:05 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 02:32:05 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 02:32:05 info [RoutesResolver]: FilesController {/}:
+2026-05-05 02:32:05 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 02:32:05 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 02:32:05 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 02:32:05 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 02:32:05 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 02:32:05 info [NestApplication]: Nest application successfully started
+2026-05-05 02:32:05 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 02:32:15 info [RoutesResolver]: AppController {/}:
+2026-05-05 02:32:15 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 02:32:15 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 02:32:15 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 02:32:15 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 02:32:15 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 02:32:15 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 02:32:15 info [RoutesResolver]: FilesController {/}:
+2026-05-05 02:32:15 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 02:32:15 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 02:32:15 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 02:32:15 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 02:32:15 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 02:32:15 info [NestApplication]: Nest application successfully started
+2026-05-05 02:32:15 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 02:32:31 info [RoutesResolver]: AppController {/}:
+2026-05-05 02:32:31 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 02:32:31 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 02:32:31 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 02:32:31 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 02:32:31 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 02:32:31 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 02:32:31 info [RoutesResolver]: FilesController {/}:
+2026-05-05 02:32:31 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 02:32:31 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 02:32:31 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 02:32:31 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 02:32:31 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 02:32:31 info [NestApplication]: Nest application successfully started
+2026-05-05 02:32:31 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 02:37:59 info [RoutesResolver]: AppController {/}:
+2026-05-05 02:37:59 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 02:37:59 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 02:37:59 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 02:37:59 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 02:37:59 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 02:37:59 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 02:37:59 info [RoutesResolver]: FilesController {/}:
+2026-05-05 02:37:59 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 02:37:59 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 02:37:59 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 02:37:59 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 02:37:59 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 02:37:59 info [NestApplication]: Nest application successfully started
+2026-05-05 02:37:59 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 02:38:02 info [RoutesResolver]: AppController {/}:
+2026-05-05 02:38:02 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 02:38:02 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 02:38:02 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 02:38:02 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 02:38:02 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 02:38:02 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 02:38:02 info [RoutesResolver]: FilesController {/}:
+2026-05-05 02:38:02 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 02:38:02 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 02:38:02 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 02:38:02 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 02:38:02 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 02:38:02 info [NestApplication]: Nest application successfully started
+2026-05-05 02:38:02 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 02:38:11 info [RoutesResolver]: AppController {/}:
+2026-05-05 02:38:11 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 02:38:11 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 02:38:11 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 02:38:11 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 02:38:11 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 02:38:11 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 02:38:11 info [RoutesResolver]: FilesController {/}:
+2026-05-05 02:38:11 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 02:38:11 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 02:38:11 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 02:38:11 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 02:38:11 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 02:38:11 info [NestApplication]: Nest application successfully started
+2026-05-05 02:38:11 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 02:39:44 info [RoutesResolver]: AppController {/}:
+2026-05-05 02:39:44 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 02:39:44 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 02:39:44 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 02:39:44 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 02:39:44 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 02:39:44 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 02:39:44 info [RoutesResolver]: FilesController {/}:
+2026-05-05 02:39:44 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 02:39:44 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 02:39:44 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 02:39:44 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 02:39:44 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 02:39:44 info [NestApplication]: Nest application successfully started
+2026-05-05 02:39:44 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 02:39:48 info [RoutesResolver]: AppController {/}:
+2026-05-05 02:39:48 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 02:39:48 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 02:39:48 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 02:39:48 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 02:39:48 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 02:39:48 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 02:39:48 info [RoutesResolver]: FilesController {/}:
+2026-05-05 02:39:48 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 02:39:48 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 02:39:48 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 02:39:48 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 02:39:48 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 02:39:48 info [NestApplication]: Nest application successfully started
+2026-05-05 02:39:48 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 02:44:24 info [RoutesResolver]: AppController {/}:
+2026-05-05 02:44:24 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 02:44:24 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 02:44:24 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 02:44:24 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 02:44:24 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 02:44:24 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 02:44:24 info [RoutesResolver]: FilesController {/}:
+2026-05-05 02:44:24 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 02:44:24 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 02:44:24 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 02:44:24 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 02:44:24 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 02:44:24 info [NestApplication]: Nest application successfully started
+2026-05-05 02:44:24 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 02:44:28 info [RoutesResolver]: AppController {/}:
+2026-05-05 02:44:28 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 02:44:28 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 02:44:28 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 02:44:28 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 02:44:28 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 02:44:28 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 02:44:28 info [RoutesResolver]: FilesController {/}:
+2026-05-05 02:44:28 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 02:44:28 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 02:44:28 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 02:44:28 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 02:44:28 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 02:44:28 info [NestApplication]: Nest application successfully started
+2026-05-05 02:44:28 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 02:44:30 info [RoutesResolver]: AppController {/}:
+2026-05-05 02:44:30 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 02:44:30 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 02:44:30 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 02:44:30 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 02:44:30 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 02:44:30 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 02:44:30 info [RoutesResolver]: FilesController {/}:
+2026-05-05 02:44:30 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 02:44:30 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 02:44:30 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 02:44:30 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 02:44:30 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 02:44:30 info [NestApplication]: Nest application successfully started
+2026-05-05 02:44:30 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 02:44:44 info [RoutesResolver]: AppController {/}:
+2026-05-05 02:44:44 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 02:44:44 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 02:44:44 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 02:44:44 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 02:44:44 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 02:44:44 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 02:44:44 info [RoutesResolver]: FilesController {/}:
+2026-05-05 02:44:44 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 02:44:44 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 02:44:44 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 02:44:44 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 02:44:44 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 02:44:44 info [NestApplication]: Nest application successfully started
+2026-05-05 02:44:44 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 02:46:21 info [RoutesResolver]: AppController {/}:
+2026-05-05 02:46:21 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 02:46:21 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 02:46:21 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 02:46:21 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 02:46:21 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 02:46:21 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 02:46:21 info [RoutesResolver]: FilesController {/}:
+2026-05-05 02:46:21 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 02:46:21 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 02:46:21 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 02:46:21 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 02:46:21 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 02:46:21 info [NestApplication]: Nest application successfully started
+2026-05-05 02:46:21 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 02:46:48 info [FilesService]: User 611cf39e-3691-4f5b-9b6d-45c93eb84fce uploading file: 4K Wallpapers 1 (27).jpg
+2026-05-05 02:46:48 info [S3Service]: Uploading file to S3: uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/4016025883575a908ebffc0ed4eb8922.jpg
+2026-05-05 02:46:49 error [S3Service]: S3 upload failed for key: uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/4016025883575a908ebffc0ed4eb8922.jpg
+AccessDenied: User: arn:aws:iam::381491938199:user/file-service-uploader is not authorized to perform: s3:PutObject on resource: "arn:aws:s3:::test-sharing-files/uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/4016025883575a908ebffc0ed4eb8922.jpg" because no permissions boundary allows the s3:PutObject action
+    at S3RestXmlProtocol.handleError (F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\core\dist-cjs\submodules\protocols\index.js:1850:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async S3RestXmlProtocol.deserializeResponse (F:\Projects\file-sharing-system\file-sharing-server\node_modules\@smithy\core\dist-cjs\submodules\protocols\index.js:343:13)
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@smithy\core\dist-cjs\submodules\schema\index.js:27:24
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-sdk-s3\dist-cjs\index.js:387:20
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@smithy\middleware-retry\dist-cjs\index.js:300:46
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-flexible-checksums\dist-cjs\index.js:243:24
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-sdk-s3\dist-cjs\index.js:64:28
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-sdk-s3\dist-cjs\index.js:91:20
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-logger\dist-cjs\index.js:5:26
+    at S3Service.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\services\s3.service.ts:44:7)
+    at FilesService.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\files.service.ts:48:17)
+    at FilesController.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\files.controller.ts:56:18)
+2026-05-05 02:47:37 info [RoutesResolver]: AppController {/}:
+2026-05-05 02:47:37 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 02:47:37 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 02:47:37 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 02:47:37 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 02:47:37 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 02:47:37 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 02:47:37 info [RoutesResolver]: FilesController {/}:
+2026-05-05 02:47:37 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 02:47:37 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 02:47:37 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 02:47:37 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 02:47:37 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 02:47:37 info [NestApplication]: Nest application successfully started
+2026-05-05 02:47:37 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 02:49:36 info [RoutesResolver]: AppController {/}:
+2026-05-05 02:49:36 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 02:49:36 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 02:49:36 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 02:49:36 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 02:49:36 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 02:49:36 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 02:49:36 info [RoutesResolver]: FilesController {/}:
+2026-05-05 02:49:36 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 02:49:36 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 02:49:36 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 02:49:36 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 02:49:36 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 02:49:36 info [NestApplication]: Nest application successfully started
+2026-05-05 02:49:36 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 02:50:00 info [RoutesResolver]: AppController {/}:
+2026-05-05 02:50:00 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 02:50:00 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 02:50:00 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 02:50:00 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 02:50:00 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 02:50:00 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 02:50:00 info [RoutesResolver]: FilesController {/}:
+2026-05-05 02:50:00 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 02:50:00 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 02:50:00 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 02:50:00 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 02:50:00 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 02:50:00 info [NestApplication]: Nest application successfully started
+2026-05-05 02:50:00 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 02:50:11 info [RoutesResolver]: AppController {/}:
+2026-05-05 02:50:11 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 02:50:11 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 02:50:11 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 02:50:11 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 02:50:11 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 02:50:11 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 02:50:11 info [RoutesResolver]: FilesController {/}:
+2026-05-05 02:50:11 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 02:50:11 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 02:50:11 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 02:50:11 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 02:50:11 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 02:50:11 info [NestApplication]: Nest application successfully started
+2026-05-05 02:50:11 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 02:51:01 info [RoutesResolver]: AppController {/}:
+2026-05-05 02:51:01 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 02:51:01 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 02:51:01 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 02:51:01 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 02:51:01 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 02:51:01 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 02:51:01 info [RoutesResolver]: FilesController {/}:
+2026-05-05 02:51:01 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 02:51:01 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 02:51:01 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 02:51:01 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 02:51:01 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 02:51:01 info [NestApplication]: Nest application successfully started
+2026-05-05 02:51:01 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 02:53:33 info [RoutesResolver]: AppController {/}:
+2026-05-05 02:53:33 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 02:53:33 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 02:53:33 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 02:53:33 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 02:53:33 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 02:53:33 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 02:53:33 info [RoutesResolver]: FilesController {/}:
+2026-05-05 02:53:33 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 02:53:33 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 02:53:33 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 02:53:33 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 02:53:33 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 02:53:33 info [NestApplication]: Nest application successfully started
+2026-05-05 02:53:33 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 02:53:54 info [FilesService]: User 611cf39e-3691-4f5b-9b6d-45c93eb84fce uploading file: 4K Wallpapers 1 (27).jpg
+2026-05-05 02:53:54 info [S3Service]: Uploading file to S3: uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/cf22ba21b2e41c82a6a254059d71f27b.jpg
+2026-05-05 02:53:55 error [S3Service]: S3 upload failed for key: uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/cf22ba21b2e41c82a6a254059d71f27b.jpg
+AccessDenied: User: arn:aws:iam::381491938199:user/file-service-uploader is not authorized to perform: s3:PutObject on resource: "arn:aws:s3:::test-sharing-files/uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/cf22ba21b2e41c82a6a254059d71f27b.jpg" because no permissions boundary allows the s3:PutObject action
+    at S3RestXmlProtocol.handleError (F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\core\dist-cjs\submodules\protocols\index.js:1850:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async S3RestXmlProtocol.deserializeResponse (F:\Projects\file-sharing-system\file-sharing-server\node_modules\@smithy\core\dist-cjs\submodules\protocols\index.js:343:13)
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@smithy\core\dist-cjs\submodules\schema\index.js:27:24
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-sdk-s3\dist-cjs\index.js:387:20
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@smithy\middleware-retry\dist-cjs\index.js:300:46
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-flexible-checksums\dist-cjs\index.js:243:24
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-sdk-s3\dist-cjs\index.js:64:28
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-sdk-s3\dist-cjs\index.js:91:20
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-logger\dist-cjs\index.js:5:26
+    at S3Service.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\services\s3.service.ts:44:7)
+    at FilesService.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\files.service.ts:48:17)
+    at FilesController.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\files.controller.ts:56:18)
+2026-05-05 02:56:41 info [FilesService]: User 611cf39e-3691-4f5b-9b6d-45c93eb84fce uploading file: 4K Wallpapers 1 (27).jpg
+2026-05-05 02:56:41 info [S3Service]: Uploading file to S3: uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/ecb9a5f5892eb61fcfcb78c60923b912.jpg
+2026-05-05 02:56:42 error [S3Service]: S3 upload failed for key: uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/ecb9a5f5892eb61fcfcb78c60923b912.jpg
+AccessDenied: User: arn:aws:iam::381491938199:user/file-service-uploader is not authorized to perform: s3:PutObject on resource: "arn:aws:s3:::test-sharing-files/uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/ecb9a5f5892eb61fcfcb78c60923b912.jpg" because no identity-based policy allows the s3:PutObject action
+    at S3RestXmlProtocol.handleError (F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\core\dist-cjs\submodules\protocols\index.js:1850:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async S3RestXmlProtocol.deserializeResponse (F:\Projects\file-sharing-system\file-sharing-server\node_modules\@smithy\core\dist-cjs\submodules\protocols\index.js:343:13)
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@smithy\core\dist-cjs\submodules\schema\index.js:27:24
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-sdk-s3\dist-cjs\index.js:387:20
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@smithy\middleware-retry\dist-cjs\index.js:300:46
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-flexible-checksums\dist-cjs\index.js:243:24
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-sdk-s3\dist-cjs\index.js:64:28
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-sdk-s3\dist-cjs\index.js:91:20
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-logger\dist-cjs\index.js:5:26
+    at S3Service.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\services\s3.service.ts:44:7)
+    at FilesService.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\files.service.ts:48:17)
+    at FilesController.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\files.controller.ts:56:18)
+2026-05-05 02:59:26 info [RoutesResolver]: AppController {/}:
+2026-05-05 02:59:26 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 02:59:26 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 02:59:26 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 02:59:26 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 02:59:26 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 02:59:26 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 02:59:26 info [RoutesResolver]: FilesController {/}:
+2026-05-05 02:59:26 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 02:59:26 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 02:59:26 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 02:59:26 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 02:59:26 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 02:59:26 info [NestApplication]: Nest application successfully started
+2026-05-05 02:59:26 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 02:59:35 info [RoutesResolver]: AppController {/}:
+2026-05-05 02:59:35 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 02:59:35 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 02:59:35 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 02:59:35 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 02:59:35 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 02:59:35 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 02:59:35 info [RoutesResolver]: FilesController {/}:
+2026-05-05 02:59:35 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 02:59:35 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 02:59:35 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 02:59:35 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 02:59:35 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 02:59:35 info [NestApplication]: Nest application successfully started
+2026-05-05 02:59:35 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 03:00:09 info [RoutesResolver]: AppController {/}:
+2026-05-05 03:00:09 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 03:00:09 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 03:00:09 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 03:00:09 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 03:00:09 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 03:00:09 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 03:00:09 info [RoutesResolver]: FilesController {/}:
+2026-05-05 03:00:09 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 03:00:09 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 03:00:09 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 03:00:09 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 03:00:09 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 03:00:09 info [NestApplication]: Nest application successfully started
+2026-05-05 03:00:09 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 03:00:15 info [FilesService]: User 611cf39e-3691-4f5b-9b6d-45c93eb84fce uploading file: 4K Wallpapers 1 (27).jpg
+2026-05-05 03:00:15 info [S3Service]: Uploading file to S3: uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/55a05badff3e60295d9ab3df0233bc6e.jpg
+2026-05-05 03:00:16 error [S3Service]: S3 upload failed for key: uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/55a05badff3e60295d9ab3df0233bc6e.jpg
+AccessDenied: User: arn:aws:iam::381491938199:user/file-service-uploader is not authorized to perform: s3:PutObject on resource: "arn:aws:s3:::test-sharing-files/uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/55a05badff3e60295d9ab3df0233bc6e.jpg" because no identity-based policy allows the s3:PutObject action
+    at S3RestXmlProtocol.handleError (F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\core\dist-cjs\submodules\protocols\index.js:1850:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async S3RestXmlProtocol.deserializeResponse (F:\Projects\file-sharing-system\file-sharing-server\node_modules\@smithy\core\dist-cjs\submodules\protocols\index.js:343:13)
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@smithy\core\dist-cjs\submodules\schema\index.js:27:24
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-sdk-s3\dist-cjs\index.js:387:20
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@smithy\middleware-retry\dist-cjs\index.js:300:46
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-flexible-checksums\dist-cjs\index.js:243:24
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-sdk-s3\dist-cjs\index.js:64:28
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-sdk-s3\dist-cjs\index.js:91:20
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-logger\dist-cjs\index.js:5:26
+    at S3Service.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\services\s3.service.ts:64:7)
+    at FilesService.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\files.service.ts:48:17)
+    at FilesController.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\files.controller.ts:56:18)
+2026-05-05 03:06:09 info [RoutesResolver]: AppController {/}:
+2026-05-05 03:06:09 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 03:06:09 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 03:06:09 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 03:06:09 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 03:06:09 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 03:06:09 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 03:06:09 info [RoutesResolver]: FilesController {/}:
+2026-05-05 03:06:09 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 03:06:09 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 03:06:09 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 03:06:09 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 03:06:09 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 03:06:09 info [NestApplication]: Nest application successfully started
+2026-05-05 03:06:09 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 03:07:24 info [FilesService]: User 611cf39e-3691-4f5b-9b6d-45c93eb84fce uploading file: 4K Wallpapers 1 (27).jpg
+2026-05-05 03:07:24 info [S3Service]: Uploading file to S3: uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/caf7f8d0cf28168dd60ac3d0fa70489e.jpg
+2026-05-05 03:07:24 error [S3Service]: S3 upload failed for key: uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/caf7f8d0cf28168dd60ac3d0fa70489e.jpg
+AccessDenied: User: arn:aws:iam::381491938199:user/file-service-uploader is not authorized to perform: s3:PutObject on resource: "arn:aws:s3:::test-sharing-files/uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/caf7f8d0cf28168dd60ac3d0fa70489e.jpg" because no identity-based policy allows the s3:PutObject action
+    at S3RestXmlProtocol.handleError (F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\core\dist-cjs\submodules\protocols\index.js:1850:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async S3RestXmlProtocol.deserializeResponse (F:\Projects\file-sharing-system\file-sharing-server\node_modules\@smithy\core\dist-cjs\submodules\protocols\index.js:343:13)
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@smithy\core\dist-cjs\submodules\schema\index.js:27:24
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-sdk-s3\dist-cjs\index.js:387:20
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@smithy\middleware-retry\dist-cjs\index.js:300:46
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-flexible-checksums\dist-cjs\index.js:243:24
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-sdk-s3\dist-cjs\index.js:64:28
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-sdk-s3\dist-cjs\index.js:91:20
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-logger\dist-cjs\index.js:5:26
+    at S3Service.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\services\s3.service.ts:64:7)
+    at FilesService.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\files.service.ts:48:17)
+    at FilesController.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\files.controller.ts:56:18)
+2026-05-05 03:13:42 info [FilesService]: User 611cf39e-3691-4f5b-9b6d-45c93eb84fce uploading file: 4K Wallpapers 1 (27).jpg
+2026-05-05 03:13:42 info [S3Service]: Uploading file to S3: uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/96e884374d4518f2db6fdda3666a6aa1.jpg
+2026-05-05 03:13:42 error [S3Service]: S3 upload failed for key: uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/96e884374d4518f2db6fdda3666a6aa1.jpg
+AccessDenied: User: arn:aws:iam::381491938199:user/file-service-uploader is not authorized to perform: s3:PutObject on resource: "arn:aws:s3:::test-sharing-files/uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/96e884374d4518f2db6fdda3666a6aa1.jpg" because no identity-based policy allows the s3:PutObject action
+    at S3RestXmlProtocol.handleError (F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\core\dist-cjs\submodules\protocols\index.js:1850:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async S3RestXmlProtocol.deserializeResponse (F:\Projects\file-sharing-system\file-sharing-server\node_modules\@smithy\core\dist-cjs\submodules\protocols\index.js:343:13)
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@smithy\core\dist-cjs\submodules\schema\index.js:27:24
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-sdk-s3\dist-cjs\index.js:387:20
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@smithy\middleware-retry\dist-cjs\index.js:300:46
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-flexible-checksums\dist-cjs\index.js:243:24
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-sdk-s3\dist-cjs\index.js:64:28
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-sdk-s3\dist-cjs\index.js:91:20
+    at async F:\Projects\file-sharing-system\file-sharing-server\node_modules\@aws-sdk\middleware-logger\dist-cjs\index.js:5:26
+    at S3Service.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\services\s3.service.ts:64:7)
+    at FilesService.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\files.service.ts:48:17)
+    at FilesController.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\files.controller.ts:56:18)
+2026-05-05 03:21:57 info [RoutesResolver]: AppController {/}:
+2026-05-05 03:21:57 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 03:21:57 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 03:21:57 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 03:21:57 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 03:21:57 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 03:21:57 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 03:21:57 info [RoutesResolver]: FilesController {/}:
+2026-05-05 03:21:57 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 03:21:57 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 03:21:57 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 03:21:57 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 03:21:57 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 03:21:57 info [NestApplication]: Nest application successfully started
+2026-05-05 03:21:57 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 03:22:03 info [FilesService]: User 611cf39e-3691-4f5b-9b6d-45c93eb84fce uploading file: 4K Wallpapers 1 (27).jpg
+2026-05-05 03:22:03 info [S3Service]: Uploading file to S3: uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/2d8c639b10fe2e51121ee435c16fbf68.jpg
+2026-05-05 03:22:08 info [S3Service]: File uploaded successfully: uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/2d8c639b10fe2e51121ee435c16fbf68.jpg
+2026-05-05 03:22:08 error [ExceptionsHandler]: No metadata for "File" was found.
+EntityMetadataNotFoundError: No metadata for "File" was found.
+    at DataSource.getMetadata (F:\Projects\file-sharing-system\file-sharing-server\node_modules\typeorm\data-source\src\data-source\DataSource.ts:451:30)
+    at Repository.get metadata (F:\Projects\file-sharing-system\file-sharing-server\node_modules\typeorm\repository\src\repository\Repository.ts:54:40)
+    at Repository.create (F:\Projects\file-sharing-system\file-sharing-server\node_modules\typeorm\repository\src\repository\Repository.ts:131:18)
+    at FilesService.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\files.service.ts:56:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at FilesController.uploadFile (F:\Projects\file-sharing-system\file-sharing-server\src\files\files.controller.ts:56:18)
+2026-05-05 03:24:54 info [RoutesResolver]: AppController {/}:
+2026-05-05 03:24:54 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 03:24:54 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 03:24:54 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 03:24:54 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 03:24:54 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 03:24:54 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 03:24:54 info [RoutesResolver]: FilesController {/}:
+2026-05-05 03:24:54 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 03:24:54 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 03:24:54 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 03:24:54 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 03:24:54 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 03:24:54 info [NestApplication]: Nest application successfully started
+2026-05-05 03:24:54 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 03:24:59 info [RoutesResolver]: AppController {/}:
+2026-05-05 03:24:59 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 03:24:59 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 03:24:59 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 03:24:59 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 03:24:59 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 03:24:59 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 03:24:59 info [RoutesResolver]: FilesController {/}:
+2026-05-05 03:24:59 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 03:24:59 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 03:24:59 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 03:24:59 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 03:24:59 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 03:24:59 info [NestApplication]: Nest application successfully started
+2026-05-05 03:24:59 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 03:30:25 info [FilesService]: User 611cf39e-3691-4f5b-9b6d-45c93eb84fce uploading file: 4K Wallpapers 1 (27).jpg
+2026-05-05 03:30:25 info [S3Service]: Uploading file to S3: uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/aa11bf6fa0a33f8b50fe3cc94c39bb0c.jpg
+2026-05-05 03:30:28 info [S3Service]: File uploaded successfully: uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/aa11bf6fa0a33f8b50fe3cc94c39bb0c.jpg
+2026-05-05 03:30:28 info [FilesService]: File saved to DB: d99bc543-cef9-43cf-9df9-86b5a2982790
+2026-05-05 03:34:59 info [FilesService]: User 611cf39e-3691-4f5b-9b6d-45c93eb84fce uploading file: 4K Wallpapers 1 (8).jpg
+2026-05-05 03:34:59 info [S3Service]: Uploading file to S3: uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/8c6a3f649f9a4b2a2869aed283b4cb67.jpg
+2026-05-05 03:35:02 info [S3Service]: File uploaded successfully: uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/8c6a3f649f9a4b2a2869aed283b4cb67.jpg
+2026-05-05 03:35:02 info [FilesService]: File saved to DB: aca0a864-11e7-4ed5-a20d-fc56d494f366
+2026-05-05 03:36:38 info [RoutesResolver]: AppController {/}:
+2026-05-05 03:36:38 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 03:36:38 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 03:36:38 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 03:36:38 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 03:36:38 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 03:36:38 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 03:36:38 info [RoutesResolver]: FilesController {/}:
+2026-05-05 03:36:38 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 03:36:38 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 03:36:38 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 03:36:38 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 03:36:38 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 03:36:38 info [NestApplication]: Nest application successfully started
+2026-05-05 03:36:38 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 03:37:00 info [RoutesResolver]: AppController {/}:
+2026-05-05 03:37:00 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 03:37:00 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 03:37:00 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 03:37:00 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 03:37:00 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 03:37:00 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 03:37:00 info [RoutesResolver]: FilesController {/}:
+2026-05-05 03:37:00 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 03:37:00 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 03:37:00 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 03:37:00 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 03:37:00 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 03:37:00 info [NestApplication]: Nest application successfully started
+2026-05-05 03:37:00 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 03:40:39 info [FilesService]: User 611cf39e-3691-4f5b-9b6d-45c93eb84fce uploading file: Muhammad_resume_2025.pdf
+2026-05-05 03:40:39 info [S3Service]: Uploading file to S3: uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/45615c5025061c75c5ad47b8a39d6aec.pdf
+2026-05-05 03:40:42 info [RoutesResolver]: AppController {/}:
+2026-05-05 03:40:42 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 03:40:42 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 03:40:42 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 03:40:42 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 03:40:42 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 03:40:42 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 03:40:42 info [RoutesResolver]: FilesController {/}:
+2026-05-05 03:40:42 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 03:40:42 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 03:40:42 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 03:40:42 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 03:40:42 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 03:40:42 info [NestApplication]: Nest application successfully started
+2026-05-05 03:40:42 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 03:40:44 info [RoutesResolver]: AppController {/}:
+2026-05-05 03:40:44 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 03:40:44 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 03:40:44 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 03:40:44 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 03:40:44 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 03:40:44 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 03:40:44 info [RoutesResolver]: FilesController {/}:
+2026-05-05 03:40:44 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 03:40:44 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 03:40:44 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 03:40:44 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 03:40:44 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 03:40:44 info [NestApplication]: Nest application successfully started
+2026-05-05 03:40:44 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 03:40:51 info [FilesService]: User 611cf39e-3691-4f5b-9b6d-45c93eb84fce uploading file: Muhammad_resume_2025.pdf
+2026-05-05 03:40:51 info [S3Service]: Uploading file to S3: uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/320fbb2998ad1251ccd727d71f9a0c92.pdf
+2026-05-05 03:40:52 info [S3Service]: File uploaded successfully: uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/320fbb2998ad1251ccd727d71f9a0c92.pdf
+2026-05-05 03:40:52 info [FilesService]: File saved to DB: 63d339a2-a0c5-4bc3-88fb-fe1ed116920d
+2026-05-05 03:42:40 info [FilesService]: Listing files for user 611cf39e-3691-4f5b-9b6d-45c93eb84fce (page 1, limit 20)
+2026-05-05 03:45:24 info [RoutesResolver]: AppController {/}:
+2026-05-05 03:45:24 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 03:45:24 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 03:45:24 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 03:45:24 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 03:45:24 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 03:45:24 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 03:45:24 info [RoutesResolver]: FilesController {/}:
+2026-05-05 03:45:24 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 03:45:24 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 03:45:24 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 03:45:24 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 03:45:24 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 03:45:24 info [NestApplication]: Nest application successfully started
+2026-05-05 03:45:24 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 03:45:31 info [FilesService]: Listing files for user 611cf39e-3691-4f5b-9b6d-45c93eb84fce (page 1, limit 20)
+2026-05-05 03:46:14 info [AuthService]: Login attempt: user@example.com
+2026-05-05 03:46:14 info [AuthService]: Login successful: 611cf39e-3691-4f5b-9b6d-45c93eb84fce
+2026-05-05 03:46:19 info [FilesService]: Listing files for user 611cf39e-3691-4f5b-9b6d-45c93eb84fce (page 1, limit 20)
+2026-05-05 03:47:17 info [FilesService]: User 611cf39e-3691-4f5b-9b6d-45c93eb84fce fetching file 63d339a2-a0c5-4bc3-88fb-fe1ed116920d
+2026-05-05 03:47:38 info [AuthService]: Login attempt: user@example.com
+2026-05-05 03:47:39 info [AuthService]: Login successful: 611cf39e-3691-4f5b-9b6d-45c93eb84fce
+2026-05-05 03:47:42 info [FilesService]: User 611cf39e-3691-4f5b-9b6d-45c93eb84fce fetching file 63d339a2-a0c5-4bc3-88fb-fe1ed116920d
+2026-05-05 03:48:20 info [FilesService]: Listing files for user 611cf39e-3691-4f5b-9b6d-45c93eb84fce (page 1, limit 10)
+2026-05-05 03:48:32 info [FilesService]: User 611cf39e-3691-4f5b-9b6d-45c93eb84fce fetching file 63d339a2-a0c5-4bc3-88fb-fe1ed116920d
+2026-05-05 03:50:35 info [FilesService]: Public share lookup: 8c6a3f649f9a4b2a2869aed283b4cb67
+2026-05-05 03:50:35 info [S3Service]: Generated signed URL for: uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/8c6a3f649f9a4b2a2869aed283b4cb67.jpg
+2026-05-05 03:50:41 info [FilesService]: Public share lookup: 8c6a3f649f9a4b2a2869aed283b4cb67
+2026-05-05 03:50:41 info [S3Service]: Generated signed URL for: uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/8c6a3f649f9a4b2a2869aed283b4cb67.jpg
+2026-05-05 03:50:54 info [FilesService]: Public share lookup: 8c6a3f649f9a4b2a2869aed283b4cb67
+2026-05-05 03:50:54 info [S3Service]: Generated signed URL for: uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/8c6a3f649f9a4b2a2869aed283b4cb67.jpg
+2026-05-05 03:52:23 info [FilesService]: Public share lookup: 8c6a3f649f9a4b2a2869aed283b4cb
+2026-05-05 03:52:23 warn [FilesService]: Public file not found: 8c6a3f649f9a4b2a2869aed283b4cb
+2026-05-05 03:52:29 info [FilesService]: Public share lookup: 63d339a2-a0c5-4bc3-88fb-fe1ed116920d
+2026-05-05 03:52:29 warn [FilesService]: Public file not found: 63d339a2-a0c5-4bc3-88fb-fe1ed116920d
+2026-05-05 03:52:33 info [FilesService]: Public share lookup: 8c6a3f649f9a4b2a2869aed283b4cb67
+2026-05-05 03:52:33 info [S3Service]: Generated signed URL for: uploads/611cf39e-3691-4f5b-9b6d-45c93eb84fce/8c6a3f649f9a4b2a2869aed283b4cb67.jpg
+2026-05-05 03:52:46 info [AuthService]: Login attempt: user@example.com
+2026-05-05 03:52:46 info [AuthService]: Login successful: 611cf39e-3691-4f5b-9b6d-45c93eb84fce
+2026-05-05 03:53:23 info [FilesService]: User 611cf39e-3691-4f5b-9b6d-45c93eb84fce fetching file 63d339a2-a0c5-4bc3-88fb-fe1ed116920e
+2026-05-05 03:53:23 warn [FilesService]: File not found: 63d339a2-a0c5-4bc3-88fb-fe1ed116920e
+2026-05-05 03:55:26 info [RoutesResolver]: AppController {/}:
+2026-05-05 03:55:26 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 03:55:26 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 03:55:26 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 03:55:26 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 03:55:26 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 03:55:26 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 03:55:26 info [RoutesResolver]: FilesController {/}:
+2026-05-05 03:55:26 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 03:55:26 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 03:55:26 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 03:55:26 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 03:55:26 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 03:55:26 info [NestApplication]: Nest application successfully started
+2026-05-05 03:55:26 info [Bootstrap]: Application is running on: http://localhost:3001
+2026-05-05 03:55:54 info [FilesService]: User 611cf39e-3691-4f5b-9b6d-45c93eb84fce fetching file 63d339a2-a0c5-4bc3-88fb-fe1ed116920d
+2026-05-05 03:59:16 info [AuthService]: Login attempt: faizan@example.com
+2026-05-05 03:59:16 warn [AuthService]: Login failed - wrong password: faizan@example.com
+2026-05-05 03:59:46 info [AuthService]: Login attempt: faizan@example.com
+2026-05-05 03:59:46 warn [AuthService]: Login failed - wrong password: faizan@example.com
+2026-05-05 04:00:12 info [AuthService]: Login attempt: faizan@example.com
+2026-05-05 04:00:12 info [AuthService]: Login successful: 5eb74289-97f4-47c8-a263-b837f91222db
+2026-05-05 04:00:22 info [FilesService]: Listing files for user 5eb74289-97f4-47c8-a263-b837f91222db (page 1, limit 10)
+2026-05-05 04:00:30 info [FilesService]: User 5eb74289-97f4-47c8-a263-b837f91222db fetching file 63d339a2-a0c5-4bc3-88fb-fe1ed116920d
+2026-05-05 04:00:30 warn [FilesService]: Forbidden: user 5eb74289-97f4-47c8-a263-b837f91222db tried to access file 63d339a2-a0c5-4bc3-88fb-fe1ed116920d owned by 611cf39e-3691-4f5b-9b6d-45c93eb84fce
+2026-05-05 04:00:36 info [FilesService]: User 5eb74289-97f4-47c8-a263-b837f91222db fetching file 63d339a2-a0c5-4bc3-88fb-fe1ed116920d
+2026-05-05 04:00:36 warn [FilesService]: Forbidden: user 5eb74289-97f4-47c8-a263-b837f91222db tried to access file 63d339a2-a0c5-4bc3-88fb-fe1ed116920d owned by 611cf39e-3691-4f5b-9b6d-45c93eb84fce
+2026-05-05 04:02:13 info [FilesService]: User 5eb74289-97f4-47c8-a263-b837f91222db uploading file: 1.jpeg
+2026-05-05 04:02:13 info [S3Service]: Uploading file to S3: uploads/5eb74289-97f4-47c8-a263-b837f91222db/4c1ec260ad5dcfe26b52b4652571acf5.jpeg
+2026-05-05 04:02:14 info [S3Service]: File uploaded successfully: uploads/5eb74289-97f4-47c8-a263-b837f91222db/4c1ec260ad5dcfe26b52b4652571acf5.jpeg
+2026-05-05 04:02:14 info [FilesService]: File saved to DB: 916d696c-b72c-4c6e-86f5-79b2526d0dc5
+2026-05-05 04:02:20 info [FilesService]: Listing files for user 5eb74289-97f4-47c8-a263-b837f91222db (page 1, limit 10)
+2026-05-05 04:02:27 info [FilesService]: User 5eb74289-97f4-47c8-a263-b837f91222db fetching file 63d339a2-a0c5-4bc3-88fb-fe1ed116920d
+2026-05-05 04:02:27 warn [FilesService]: Forbidden: user 5eb74289-97f4-47c8-a263-b837f91222db tried to access file 63d339a2-a0c5-4bc3-88fb-fe1ed116920d owned by 611cf39e-3691-4f5b-9b6d-45c93eb84fce
+2026-05-05 04:02:49 info [FilesService]: User 5eb74289-97f4-47c8-a263-b837f91222db fetching file 916d696c-b72c-4c6e-86f5-79b2526d0dc5
+2026-05-05 04:03:21 info [FilesService]: Public share lookup: 4c1ec260ad5dcfe26b52b4652571acf
+2026-05-05 04:03:21 warn [FilesService]: Public file not found: 4c1ec260ad5dcfe26b52b4652571acf
+2026-05-05 04:03:27 info [FilesService]: Public share lookup: 4c1ec260ad5dcfe26b52b4652571acf
+2026-05-05 04:03:27 warn [FilesService]: Public file not found: 4c1ec260ad5dcfe26b52b4652571acf
+2026-05-05 04:03:28 info [FilesService]: Public share lookup: 4c1ec260ad5dcfe26b52b4652571acf
+2026-05-05 04:03:28 warn [FilesService]: Public file not found: 4c1ec260ad5dcfe26b52b4652571acf
+2026-05-05 04:03:29 info [FilesService]: Public share lookup: 4c1ec260ad5dcfe26b52b4652571acf
+2026-05-05 04:03:29 warn [FilesService]: Public file not found: 4c1ec260ad5dcfe26b52b4652571acf
+2026-05-05 04:03:39 info [FilesService]: Public share lookup: 4c1ec260ad5dcfe26b52b4652571acf5
+2026-05-05 04:03:39 info [S3Service]: Generated signed URL for: uploads/5eb74289-97f4-47c8-a263-b837f91222db/4c1ec260ad5dcfe26b52b4652571acf5.jpeg
+2026-05-05 04:03:50 info [FilesService]: Public share lookup: 4c1ec260ad5dcfe26b52b4652571acf5
+2026-05-05 04:03:50 info [S3Service]: Generated signed URL for: uploads/5eb74289-97f4-47c8-a263-b837f91222db/4c1ec260ad5dcfe26b52b4652571acf5.jpeg
+2026-05-05 04:04:16 info [AuthService]: Login attempt: faizan@example.com
+2026-05-05 04:04:16 info [AuthService]: Login successful: 5eb74289-97f4-47c8-a263-b837f91222db
+2026-05-05 04:04:19 info [FilesService]: Listing files for user 5eb74289-97f4-47c8-a263-b837f91222db (page 1, limit 10)
+2026-05-05 04:05:33 info [FilesService]: User 5eb74289-97f4-47c8-a263-b837f91222db fetching file 916d696c-b72c-4c6e-86f5-79b2526d0dc5
+2026-05-05 04:05:39 info [FilesService]: User 5eb74289-97f4-47c8-a263-b837f91222db fetching file 916d696c-b72c-4c6e-86f5-79b2526d0dc5
+2026-05-05 04:05:54 info [FilesService]: Public share lookup: 4c1ec260ad5dcfe26b52b4652571acf5
+2026-05-05 04:05:54 info [S3Service]: Generated signed URL for: uploads/5eb74289-97f4-47c8-a263-b837f91222db/4c1ec260ad5dcfe26b52b4652571acf5.jpeg
+2026-05-05 04:13:18 info [FilesService]: Public share lookup: 4c1ec260ad5dcfe26b52b4652571acf5
+2026-05-05 04:13:18 info [S3Service]: Generated signed URL for: uploads/5eb74289-97f4-47c8-a263-b837f91222db/4c1ec260ad5dcfe26b52b4652571acf5.jpeg
+2026-05-05 04:14:15 info [FilesService]: Public share lookup: 4c1ec260ad5dcfe26b52b4652571acf5
+2026-05-05 04:14:15 warn [FilesService]: Share link expired: 4c1ec260ad5dcfe26b52b4652571acf5
+2026-05-05 04:14:30 info [FilesService]: Listing files for user 5eb74289-97f4-47c8-a263-b837f91222db (page 1, limit 10)
+2026-05-05 04:15:31 info [FilesService]: User 5eb74289-97f4-47c8-a263-b837f91222db uploading file: 1.jpeg
+2026-05-05 04:15:31 info [S3Service]: Uploading file to S3: uploads/5eb74289-97f4-47c8-a263-b837f91222db/4fd960914b06bef30a7a33adc50137b9.jpeg
+2026-05-05 04:15:32 info [S3Service]: File uploaded successfully: uploads/5eb74289-97f4-47c8-a263-b837f91222db/4fd960914b06bef30a7a33adc50137b9.jpeg
+2026-05-05 04:15:32 info [FilesService]: File saved to DB: 6dbab27a-57ad-4529-9ed9-31ac2d3074ec
+2026-05-05 04:16:22 info [FilesService]: User 5eb74289-97f4-47c8-a263-b837f91222db fetching file 6dbab27a-57ad-4529-9ed9-31ac2d3074ec
+2026-05-05 04:25:32 info [FilesService]: User 5eb74289-97f4-47c8-a263-b837f91222db deleting file 6dbab27a-57ad-4529-9ed9-31ac2d3074ed
+2026-05-05 04:25:32 info [FilesService]: User 5eb74289-97f4-47c8-a263-b837f91222db fetching file 6dbab27a-57ad-4529-9ed9-31ac2d3074ed
+2026-05-05 04:25:32 warn [FilesService]: File not found: 6dbab27a-57ad-4529-9ed9-31ac2d3074ed
+2026-05-05 04:25:40 info [FilesService]: User 5eb74289-97f4-47c8-a263-b837f91222db deleting file 6dbab27a-57ad-4529-9ed9-31ac2d3074ec
+2026-05-05 04:25:40 info [FilesService]: User 5eb74289-97f4-47c8-a263-b837f91222db fetching file 6dbab27a-57ad-4529-9ed9-31ac2d3074ec
+2026-05-05 04:25:40 info [S3Service]: Deleting file from S3: uploads/5eb74289-97f4-47c8-a263-b837f91222db/4fd960914b06bef30a7a33adc50137b9.jpeg
+2026-05-05 04:25:40 info [S3Service]: File deleted from S3: uploads/5eb74289-97f4-47c8-a263-b837f91222db/4fd960914b06bef30a7a33adc50137b9.jpeg
+2026-05-05 04:25:40 info [FilesService]: File deleted: 6dbab27a-57ad-4529-9ed9-31ac2d3074ec
+2026-05-05 04:26:34 info [FilesService]: User 5eb74289-97f4-47c8-a263-b837f91222db fetching file 6dbab27a-57ad-4529-9ed9-31ac2d3074ec
+2026-05-05 04:26:34 warn [FilesService]: File not found: 6dbab27a-57ad-4529-9ed9-31ac2d3074ec
+2026-05-05 04:26:38 info [FilesService]: Listing files for user 5eb74289-97f4-47c8-a263-b837f91222db (page 1, limit 10)
+2026-05-05 04:29:23 info [RoutesResolver]: AppController {/}:
+2026-05-05 04:29:23 info [RouterExplorer]: Mapped {/, GET} route
+2026-05-05 04:29:23 info [RoutesResolver]: AuthController {/auth}:
+2026-05-05 04:29:23 info [RouterExplorer]: Mapped {/auth/register, POST} route
+2026-05-05 04:29:23 info [RouterExplorer]: Mapped {/auth/login, POST} route
+2026-05-05 04:29:23 info [RouterExplorer]: Mapped {/auth/logout, POST} route
+2026-05-05 04:29:23 info [RouterExplorer]: Mapped {/auth/me, GET} route
+2026-05-05 04:29:23 info [RoutesResolver]: FilesController {/}:
+2026-05-05 04:29:23 info [RouterExplorer]: Mapped {/upload, POST} route
+2026-05-05 04:29:23 info [RouterExplorer]: Mapped {/files, GET} route
+2026-05-05 04:29:23 info [RouterExplorer]: Mapped {/files/:id, GET} route
+2026-05-05 04:29:23 info [RouterExplorer]: Mapped {/files/:id, DELETE} route
+2026-05-05 04:29:23 info [RouterExplorer]: Mapped {/share/:publicId, GET} route
+2026-05-05 04:29:23 info [NestApplication]: Nest application successfully started
+2026-05-05 04:29:23 info [Bootstrap]: Application is running on: http://localhost:3001

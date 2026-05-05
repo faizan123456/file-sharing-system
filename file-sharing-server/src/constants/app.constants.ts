@@ -40,3 +40,21 @@ export const AUTH_MESSAGES = {
 export const COOKIE = {
   ACCESS_TOKEN: 'access_token',
 } as const;
+
+export const FILE_MESSAGES = {
+  UPLOAD_SUCCESS: 'File uploaded successfully',
+  LIST_SUCCESS: 'Files retrieved successfully',
+  GET_SUCCESS: 'File retrieved successfully',
+  DELETE_SUCCESS: 'File deleted successfully',
+  NOT_FOUND: 'File not found',
+  FORBIDDEN: 'You do not have access to this file',
+  NO_FILE: 'No file provided',
+  SIZE_EXCEEDED: 'File size must not exceed 5MB',
+  EXPIRED: 'This share link has expired',
+  SHARE_SUCCESS: 'Shared file retrieved successfully',
+} as const;
+
+export const FILE_LIMITS = {
+  MAX_SIZE_BYTES: 5 * 1024 * 1024,
+  MAX_SIZE_LABEL: '5MB',
+} as const;
