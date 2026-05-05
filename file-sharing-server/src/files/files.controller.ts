@@ -1,4 +1,5 @@
 import {
+  ClassSerializerInterceptor,
   Controller,
   Post,
   Get,
@@ -30,6 +31,7 @@ import { MulterExceptionFilter } from './filters/multer-exception.filter';
 
 type AuthRequest = Request & { user: JwtPayload };
 
+@UseInterceptors(ClassSerializerInterceptor)
 @Controller()
 export class FilesController {
   constructor(private readonly filesService: FilesService) {}

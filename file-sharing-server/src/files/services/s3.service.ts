@@ -19,6 +19,12 @@ export class S3Service {
   private readonly bucket: string;
   private readonly context = S3Service.name;
 
+  private buildContentDisposition(fileName: string): string {
+    const safeFileName = fileName.replace(/["\\]/g, '_');
+    const utf8FileName = encodeURIComponent(fileName);
+    return `attachment; filename="${safeFileName}"; filename*=UTF-8''${utf8FileName}`;
+  }
+
   private isS3AccessDenied(error: unknown): boolean {
     const maybeError = error as {
       name?: string;
@@ -122,11 +128,21 @@ export class S3Service {
     }
   }
 
-  async getSignedUrl(key: string, expiresInSeconds = 3600): Promise<string> {
+  async getSignedUrl(
+    key: string,
+    expiresInSeconds = 3600,
+    fileName?: string,
+  ): Promise<string> {
     try {
       const command = new GetObjectCommand({
         Bucket: this.bucket,
         Key: key,
+        ...(fileName
+          ? {
+              ResponseContentDisposition:
+                this.buildContentDisposition(fileName),
+            }
+          : {}),
       });
 
       const url = await getSignedUrl(this.client, command, {

@@ -7,6 +7,7 @@ import {
   CreateDateColumn,
   Index,
 } from 'typeorm';
+import { Exclude } from 'class-transformer';
 import { User } from '../../users/entities/user.entity';
 
 @Entity('files')
@@ -27,6 +28,7 @@ export class File {
   @Column({ length: 255 })
   mimeType!: string;
 
+  @Exclude()
   @Column({ length: 512 })
   s3Key!: string;
 

@@ -254,7 +254,11 @@ export class FilesService {
       throw new GoneException(FILE_MESSAGES.EXPIRED);
     }
 
-    const signedUrl = await this.s3Service.getSignedUrl(file.s3Key);
+    const signedUrl = await this.s3Service.getSignedUrl(
+      file.s3Key,
+      3600,
+      file.originalName,
+    );
     return { url: signedUrl, file };
   }
 }
